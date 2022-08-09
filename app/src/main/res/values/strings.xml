@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">vod</string>
+
+
+    <string-array name="desc">
+        <item>aalak gdn</item>
+        <item>aalak f3ln</item>
+        <item>aalak moot</item>
+        <item>aalak bgd</item>
+        <item>aalak b2a</item>
+
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
